@@ -665,9 +665,9 @@ section {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.new-arrivals {
+/* .new-arrivals {
 
-}
+} */
 
 .new-arrivals .head {
     width: 100%;
@@ -833,8 +833,6 @@ section {
     background: transparent;
     color: transparent;
 }
-
-
 
 .new-arrivals .cards .card p{
     font-size: 14px;
@@ -1234,3 +1232,4 @@ section {
     align-items: flex-start;
     padding: 5px 5px;
 }
+
